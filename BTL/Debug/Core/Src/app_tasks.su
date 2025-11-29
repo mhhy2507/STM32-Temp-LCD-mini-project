@@ -1,0 +1,8 @@
+../Core/Src/app_tasks.c:30:6:Task_Sensor	16	static
+../Core/Src/app_tasks.c:58:6:Task_Input	16	static
+../Core/Src/app_tasks.c:78:6:Task_Control	24	static
+../Core/Src/app_tasks.c:119:6:Task_Display	48	static
+../Core/Src/app_tasks.c:157:13:Button_Debounce	16	static
+../Core/Src/app_tasks.c:196:13:Handle_Button_Press	16	static
+../Core/Src/app_tasks.c:246:6:Task_Scheduler_Init	16	static
+../Core/Src/app_tasks.c:260:6:Task_Scheduler_Run	8	static

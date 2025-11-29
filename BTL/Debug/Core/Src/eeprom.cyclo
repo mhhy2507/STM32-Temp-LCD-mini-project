@@ -1,0 +1,9 @@
+../Core/Src/eeprom.c:27:10:EEPROM_CRC16	4
+../Core/Src/eeprom.c:53:13:Flash_Unlock	1
+../Core/Src/eeprom.c:61:13:Flash_Lock	1
+../Core/Src/eeprom.c:71:26:EEPROM_ErasePage	1
+../Core/Src/eeprom.c:95:26:EEPROM_WriteFlash	4
+../Core/Src/eeprom.c:124:19:EEPROM_Init	3
+../Core/Src/eeprom.c:167:19:EEPROM_SaveSetpoint	4
+../Core/Src/eeprom.c:197:19:EEPROM_LoadSetpoint	6
+../Core/Src/eeprom.c:237:19:EEPROM_Erase	4

@@ -1,0 +1,8 @@
+../Core/Src/app_tasks.c:30:6:Task_Sensor	2
+../Core/Src/app_tasks.c:58:6:Task_Input	2
+../Core/Src/app_tasks.c:78:6:Task_Control	8
+../Core/Src/app_tasks.c:119:6:Task_Display	5
+../Core/Src/app_tasks.c:157:13:Button_Debounce	5
+../Core/Src/app_tasks.c:196:13:Handle_Button_Press	12
+../Core/Src/app_tasks.c:246:6:Task_Scheduler_Init	1
+../Core/Src/app_tasks.c:260:6:Task_Scheduler_Run	1
